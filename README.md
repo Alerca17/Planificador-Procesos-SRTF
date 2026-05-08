@@ -24,4 +24,4 @@ Para probar el ejercicio clásico:
 5. P4: Llegada 950, NCPU 60
 
 ## ✒️ Autor
-**Alejandro Correa Arias** - Estudiante de Ingeniería de Computación en el Politécnico Jaime Isaza Cadavid.
+**Alejandro Correa Arias**
